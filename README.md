@@ -39,10 +39,6 @@ pip install pandas openpyxl
 ## 2. Prepare seus Arquivos
 Coloque suas planilhas Excel no diretório planilhas. Certifique-se de que cada arquivo siga o padrão segmento-pais.xlsx.
 
-```bash
-pip install pandas openpyxl
-```
-
 ## 3. Execute o Script
 Execute o script consolidar_planilhas.py:
 
