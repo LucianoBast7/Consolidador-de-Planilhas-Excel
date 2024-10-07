@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-O projeto **Consolidação de Planilhas Excel com Pandas** tem como objetivo agrupar e consolidar dados de várias planilhas Excel em um único arquivo. Utilizando a biblioteca **Pandas** em Python, o script lê arquivos Excel de um diretório específico, extrai informações relevantes e gera um relatório consolidado, facilitando a análise e o gerenciamento dos dados.
+O projeto **Consolidador de Planilhas Excel com Pandas** tem como objetivo agrupar e consolidar dados de várias planilhas Excel em um único arquivo. Utilizando a biblioteca **Pandas** em Python, o script lê arquivos Excel de um diretório específico, extrai informações relevantes e gera um relatório consolidado, facilitando a análise e o gerenciamento dos dados.
 
 ## 🔧 Tecnologias Utilizadas
 
